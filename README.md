@@ -1,2 +1,2 @@
-# room-isoo
-chat room
+# Trace
+Live streaming, video reels and feed
